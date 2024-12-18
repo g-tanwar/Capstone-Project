@@ -1,0 +1,23 @@
+.cl{
+    height: 200px;
+    width: 200px;
+    border: 2px solid white;
+    border-radius: 10%;
+    background-color:rgba(206, 205, 205, 0.339);
+}
+.clients{
+    display: flex;
+    justify-content: space-evenly;
+}
+#ramu{
+    height: 40px;
+    border-radius: 50%;
+}
+.feedback{
+    font-size: 18px;
+    color:rgba(16, 17, 17, 0.644) ;
+    text-align: center;
+}
+#job{
+    text-align: center;
+}
